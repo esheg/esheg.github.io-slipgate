@@ -12,5 +12,6 @@ body {
   width: 100%;
   min-height: 100vh;
   font-family: 'Courier New', Courier, monospace;
-  font-weight: bold;
+  /* normal weight by default */
+  font-weight: normal;
 }
